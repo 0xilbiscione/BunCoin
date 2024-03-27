@@ -1,2 +1,2 @@
 # BunToken
-Development of $BUN, a ERC20 token build on Base
+Development of $BUN, an ERC20 token build on Base
