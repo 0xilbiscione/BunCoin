@@ -1,4 +1,4 @@
-# BunToken
+# BunToken Documentations
 Development of $BUN, an ERC20 token build on Base
 
 ## BunToken.sol
