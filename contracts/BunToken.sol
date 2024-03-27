@@ -14,7 +14,7 @@ contract BunToken is Ownable2Step, ERC20 {
     event Launch();
     event ExcludeFromLimits(address indexed account, bool value);
 
-    constructor(address _owner) ERC20("Bun The Coin", "BTC") {
+    constructor(address _owner) ERC20("Bun Coin", "BUN") {
         address sender = _msgSender();
 
         _excludeFromLimits(sender, true);
